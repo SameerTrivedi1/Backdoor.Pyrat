@@ -1,0 +1,5 @@
+{
+    "Version":"1.0",
+    "C2address":"tcp://0.tcp.in.ngrok.io",
+    "C2port":10336
+}
